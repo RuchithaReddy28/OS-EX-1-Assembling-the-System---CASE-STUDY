@@ -1,10 +1,10 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:
+## AIM:
 
-STEPS:
+## MATERIALS REQUIRED :
 
-PROCEDURE:
+## Procedure:
 
 
 RESULT:
